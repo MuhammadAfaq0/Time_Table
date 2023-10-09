@@ -21,6 +21,17 @@ img{
     margin-top: 10px;
     margin-left: 200px;
 }
+.box1{
+    align-items: right;
+    height: 40px;
+    width: 70%;
+}
+.box2{
+    align-items: right;
+    width: 70%;
+    text-align: right;
+    margin: auto;
+}
 input{
     background-color: white;
     padding: 5px;

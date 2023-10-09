@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-.box1{
-    height: 40px;
-}
 h3{
     text-align: center;
     margin-top: 10px;
@@ -18,10 +15,22 @@ img{
     margin-left: 200px;
 
 }
+.box1{
+    align-items: right;
+    height: 40px;
+    width: 70%;
+}
+.box2{
+    align-items: right;
+    width: 70%;
+    text-align: right;
+    margin: auto;
+
+}
 input{
+    margin:auto;
     background-color: black;
     padding: 5px;
-    margin-left: 750px;
     border-radius: 5px;
     color: white ;
     
